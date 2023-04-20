@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.ag-theme-material{
+  --ag-foreground-color: black;
+  --ag-background-color: #EEEEEE;
+  --ag-header-foreground-color: black;
+  --ag-header-background-color: rgb(140,188,218);
+  --ag-odd-row-background-color: rgb(0,0,0,0.1);
+  --ag-header-colum-resize-handle-color: black;
+  --ag-row-hover-color: rgb(163, 187, 202);
+}
